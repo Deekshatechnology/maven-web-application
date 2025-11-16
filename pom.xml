@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.33.143:9000/</sonar.host.url>
+		<sonar.host.url>http://43.205.122.65:9000:9000/</sonar.host.url>
 		<sonar.token>squ_607e0f76c4b4e581c4e594339c882f5ca9389f1c</sonar.token> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Deekshatechnologies Releases Nexus Repository</name>
-	      <url/>http://http://13.204.93.209:9980/Deekshatechnology/repository/metlife-releases</url>
+	      <url>http://http://13.204.93.209:9980/Deekshatechnology/repository/metlife-releases</url>
 	    </repository>
 	    
 	    <snapshotRepository>
