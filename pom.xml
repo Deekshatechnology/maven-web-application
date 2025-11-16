@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Deekshatechnologies Releases Nexus Repository</name>
-	      <url>http://http://13.204.93.209:9980/Deekshatechnology/repository/metlife-releases</url>
+	      <url>http://13.204.93.209:9980/Deekshatechnology/repository/metlife-releases</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://13.204.93.209:9980/Deekshatechnology/repository/metlife-snapshot/</url>
+	      <url>http://13.204.93.209:9980/Deekshatechnology/repository/metlife-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
